@@ -1,0 +1,1 @@
+Quick code to play with RabbitMQ. Check node version https://github.com/adamatti/LearnRabbitMQ[here]
